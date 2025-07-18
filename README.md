@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="font-size: 2.5em; font-weight: bold; color: #2c3e50; margin-bottom: 10px;">Hi 👋, I'm Sabnam Parvin Bristy</h1>
-  <h3 style="font-size: 1.5em; color: #7f8c8d; font-weight: normal;">Aspiring Tech Enthusiast | Learning & Building</h3>
+  <h1 style="color: #2c3e50; font-size: 2.8em; font-style: italic; font-weight: bold;">✨ Hi 👋, I'm Sabnam Parvin Bristy ✨</h1>
+  <h3 style="color: #7f8c8d; font-size: 1.5em; font-style: italic;">Aspiring Tech Enthusiast | Learning & Building 🚀</h3>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="coding" style="width: 350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM1NDZmOGViYzQ4ZDMxZGMyM2U3NzRhMDYzNzFiZjk1MDU0ZGZiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" style="width: 350px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <p align="center">
@@ -12,16 +12,16 @@
 </p>
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="font-size: 1.1em; color: #34495e; line-height: 1.6;">
-    🔭 I’m currently working on <strong>Python projects, AI & Machine Learning</strong><br>
-    🌱 I’m currently learning <strong>Python, ML, AI, React Native</strong><br>
-    🤝 I’m looking for help with <strong>Understanding ML algorithms & real-world project structure, Blockchain</strong><br>
-    👨‍💻 All of my projects are available at <a href="https://sabnamparvin.vercel.app/" style="color: #2980b9; text-decoration: none;">sabnamparvin.vercel.app</a><br>
-    📫 How to reach me: <a href="mailto:sabnamparvinbristy@gmail.com" style="color: #2980b9; text-decoration: none;">sabnamparvinbristy@gmail.com</a>
+  <p style="font-size: 1.1em; font-style: italic; color: #34495e; line-height: 1.6;">
+    🔭 <strong>Currently working on:</strong> Python projects, AI & Machine Learning 🧠<br>
+    🌱 <strong>Currently learning:</strong> Python, ML, AI, React Native 📚<br>
+    🤝 <strong>Looking for help with:</strong> ML algorithms & real-world project structure, Blockchain 🔗<br>
+    👨‍💻 <strong>My projects:</strong> <a href="https://sabnamparvin.vercel.app/" style="color: #2980b9; text-decoration: none;">sabnamparvin.vercel.app</a> 🌐<br>
+    📫 <strong>Reach me at:</strong> <a href="mailto:sabnamparvinbristy@gmail.com" style="color: #2980b9; text-decoration: none;">sabnamparvinbristy@gmail.com</a> ✉️
   </p>
 </div>
 
-<h3 align="center" style="color: #2c3e50; margin-top: 30px;">Connect with me:</h3>
+<h3 align="center" style="color: #2c3e50; font-size: 1.8em; font-style: italic;">🌟 Connect with me 🌟</h3>
 <p align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/sabnamparvin" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width: 40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #2c3e50; margin-top: 30px;">Languages and Tools:</h3>
+<h3 align="center" style="color: #2c3e50; font-size: 1.8em; font-style: italic;">🛠️ Languages and Tools 🛠️</h3>
 <p align="center" style="margin: 20px 0;">
   <a href="https://www.cprogramming.com/" target="_blank" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
