@@ -28,7 +28,7 @@ I am a Computer Science & Engineering student with a keen interest in full-stack
   <a href="https://linkedin.com/in/sabnamparvin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>&nbsp;&nbsp;
-  <a href="https://fb.com/sabnamsp10" target="_blank">
+  <a href="https://fb.com/sabnamparvinbristy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/sabnam_parvin" target="_blank">
